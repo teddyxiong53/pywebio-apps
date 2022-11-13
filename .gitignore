@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 
 test.py
+db.json
 
 __pycache__/
 *.py[cod]
