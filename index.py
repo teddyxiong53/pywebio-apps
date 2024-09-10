@@ -12,6 +12,7 @@ index_md = r"""
 - [sqlite操作](./sqlite): 进行sqlite的管理。
 - [panel](./panel): 一个panel界面，方便后面根据这个来改。
 - [blog](./blog): 一个简单的博客系统，通过跟cursor对话来生成的。这个AI工具真的很强大了。
+- [cron_edit](./cron_edit): 一个简单的cron编辑器，可以方便的添加、删除、编辑cron任务。
 """
 
 def main():
